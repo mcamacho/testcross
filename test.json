@@ -1,17 +1,6 @@
 [
 	{
 		"websiteProvider": "DealerX",
-		"account_id": "c6nzsKTT",
-		"gmt_account_ids": "GTM-T85PGDX",
-		"company_name": "Alfa Romeo of Maple Shade",
-		"name": "alfaofmapleshade.com",
-		"active": "",
-		"dealer_url": "https://alfaofmapleshade.com/",
-		"type": "Single Rooftop",
-		"tracking": "FALSE"
-	},
-	{
-		"websiteProvider": "DealerX",
 		"account_id": "7y9GCoh5",
 		"gmt_account_ids": "GTM-PPKZFJ",
 		"company_name": "Anthony Auto Group",

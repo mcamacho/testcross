@@ -1,7 +1,8 @@
 (function (dataLayer) {
+  
   var _config = {
     roiqId: 'gQg95XW1',
-    fbId: '959501767509811',
+    fbId: '',
     phonenum: {
       hardNumToFlip: '',
       numToFlipCss: '.phone1 .value span'
