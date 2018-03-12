@@ -1,0 +1,15 @@
+{
+   "dealer.com": ["static.dealer.com"]
+}
+
+/*
+accounts = require('./accounts')
+toextract = ['websiteProvider', 'account_id', 'gmt_account_ids', 'company_name', 'name', 'active', 'dealer_url', 'type']
+function extract(item) {
+    var resp = {}
+    for (var te = 0; te < toextract.length; te++) {
+        resp[toextract[te]] = item[toextract[te]] ? (Array.isArray(item[toextract[te]]) ? item[toextract[te]].join() : item[toextract[te]]) : ''
+    }
+    return resp
+}
+accsimple = accounts.map(function (acc) { return extract(acc) })
